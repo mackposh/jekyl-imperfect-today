@@ -70,7 +70,8 @@ $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
 $light-green: #ddffdd !default;
 //$dark-gray: #333 !default;
-$dark-gray: #555 !default;
+//$dark-gray: #555 !default;
+$dark-gray: #82C243 !default;
 $mid-gray: #777 !default;
 $light-gray: #aaa !default;
 $lighter-gray: #eee !default;
@@ -144,7 +145,7 @@ $header-border-top: thin solid #f3f3f3;
 //$header-color: $dark-gray;
 $header-color: $dark-blue;
 $header-color: $white;
-$header-bg-color: $lighter-gray;
+$header-bg-color: $dark-gray;
 //$header-bg-color: $dark-blue;
 $header-font-weight: normal;
 
