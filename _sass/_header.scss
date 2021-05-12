@@ -113,14 +113,14 @@
 
 .wallborder {
     height: 2px;
-    border-top: 1px solid #efefef;
+    //border-top: 1px solid #efefef;
     //background-color: steelblue;
     background-color: $header-bg-color;;
-    box-shadow: 0px 2px 5px 2px #fff;
+    //box-shadow: 0px 2px 5px 2px #fff;
 }
 
 .wallborder2 {
     height:2px;
     background-color: $header-bg-color;
-    box-shadow: 0px 2px 5px 0px #555;
+    box-shadow: 0px 1px 3px 0px $header-bg-color;
 }
