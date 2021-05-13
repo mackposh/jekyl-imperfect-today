@@ -4,9 +4,11 @@ $bold-font-weight: bold !default;
 
 //$font-family: 'Bitter','Quattrocento', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 //$font-family: Bitter, Dotum, sans-serif;
-$font-family: Quicksand, sans-serif;
+//$font-family: Quicksand, sans-serif;
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
 /* $heading-font-family: $font-family; */ 
-$title-font-family: 'Special Elite', serif !default;
+$title-font-family: $font-family
+//$title-font-family: 'Special Elite', serif !default;
 /* $link-font-family: 'Alegreya Sans SC', sans-serif; */
 $monospace-font-family: 'Ubuntu Mono', monospace !default;
 /* $subtitle-font-family: $monospace-font-family; */ 
